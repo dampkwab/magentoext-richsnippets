@@ -10,7 +10,7 @@
     ],
   "extra": {
     "map": [
-      ["Creativestyle_Richsnippets/app/code/local/Creativstyle/Richsnippets/*", "app/code/local/Creativstyle/Richsnippets/"],
+      ["Creativestyle_Richsnippets/app/code/community/Creativstyle/Richsnippets/*", "app/code/community/Creativstyle/Richsnippets/"],
       ["Creativestyle_Richsnippets/app/design/frontend/base/default/layout/richsnippets.xml", "app/design/frontend/base/default/layout/richsnippets.xml"],
       ["Creativestyle_Richsnippets/app/design/frontend/base/default/template/richsnippets/*", "app/design/frontend/base/default/template/richsnippets/"],
       ["Creativestyle_Richsnippets/app/etc/modules/*.xml", "app/etc/modules/"]

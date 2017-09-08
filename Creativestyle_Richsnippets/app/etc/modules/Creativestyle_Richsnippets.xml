@@ -3,7 +3,7 @@
     <modules>
         <Creativestyle_Richsnippets>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </Creativestyle_Richsnippets>
     </modules>
 </config>
